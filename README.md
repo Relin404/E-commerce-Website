@@ -18,7 +18,7 @@ Make sure you have [**Node.js**](http://nodejs.org/) fully installed first.
 - **Pug** ^2.0.3
 - **Sequelize** ^5.0.0-beta.11
 
-#### To install all dependencien run:```npm install``` in your project console.
+#### To install all dependencien run: ```npm install``` in your project console.
 
 
 Your app should now be running on [localhost:3000](http://localhost:3000/).
